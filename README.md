@@ -3,4 +3,5 @@ Hello this is github
 
 new changes by dev1
 
+welcome to new branch dev2
 new branch
